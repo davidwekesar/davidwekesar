@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Android developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Jetpack Compose**
-
 - 💬 Ask me about **Android and Kotlin**
 
 - 📫 How to reach me **davidwekesar@gmail.com**
