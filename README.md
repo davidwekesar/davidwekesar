@@ -18,8 +18,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=davidwekesar&show_icons=true&locale=en" alt="davidwekesar" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=davidwekesar&" alt="davidwekesar" /></p>
-
 <!--
 **davidwekesar/davidwekesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
