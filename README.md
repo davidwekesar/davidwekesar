@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="left">Hi 👋, I'm David</h1>
 
 - 💬 Ask me about **Android and Kotlin**
 
