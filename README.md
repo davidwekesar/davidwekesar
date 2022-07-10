@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate Android developer from Kenya</h3>
 
 - 💬 Ask me about **Android and Kotlin**
 
